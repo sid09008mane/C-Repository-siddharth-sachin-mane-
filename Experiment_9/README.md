@@ -1,0 +1,1 @@
+# 09 Stack\n\n1. **array_stack.cpp**: Stack using an array.\n2. **linked_list_stack.cpp**: Linked list with stack.\n3. **paragraph_checker.cpp**: Paragraph checker (brackets logic).\n4. **postfix_evaluation.cpp**: Postfix expression evaluation.\n5. **infix_to_postfix.cpp**: Infix to postfix expression.\n

@@ -1,0 +1,1 @@
+# 06 Searching\n\n1. **recursive_binary_search.cpp**: Recursive Binary Search.\n2. **first_occurrence.cpp**: Finding index of first Occurrence of an element.\n3. **peak_element.cpp**: Peak element index in given array O(logn).\n4. **two_pointer_sum.cpp**: Working on Two Pointer Algorithm.\n

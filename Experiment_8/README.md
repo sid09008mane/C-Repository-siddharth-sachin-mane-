@@ -1,0 +1,1 @@
+# 08 String Operations\n\n1. **palindrome_check.cpp**: Check if string S1 is palindrome or not.\n2. **find_substring.cpp**: Find if findstring is present in srcstring.\n3. **anagram_check.cpp**: Check if string str1 is anagram of str2.\n4. **leftmost_repeating.cpp**: Leftmost repeating character in string.\n5. **reverse_words.cpp**: Reverse order of words in given string.\n

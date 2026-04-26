@@ -1,0 +1,1 @@
+# 05 Hashing\n\n1. **separate_chaining.cpp**: Fill hash table using separate chaining strategy.\n2. **linear_probing.cpp**: Linear probing in hashing.\n3. **insert_distinct.cpp**: Insert members of array of distinct integers.\n4. **identical_mappings.cpp**: Identical mappings mapped to opposite positions.\n
