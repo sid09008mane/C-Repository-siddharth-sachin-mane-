@@ -1,4 +1,3 @@
-// Problem: Find if findstring is present in srcstring.\n\n#include <iostream>
 #include <string>
 
 using namespace std;
@@ -13,3 +12,4 @@ int main() {
     cout << "Index: " << findSubstring("hello world", "world") << endl;
     return 0;
 }
+

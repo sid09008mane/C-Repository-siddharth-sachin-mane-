@@ -1,5 +1,3 @@
-// Problem: Check if nth bit is set.\n\n#include <iostream>
-
 using namespace std;
 
 bool isNthBitSet(int N, int n) {
@@ -7,8 +5,8 @@ bool isNthBitSet(int N, int n) {
 }
 
 int main() {
-    int N = 5; // Binary: 101
-    int n = 0; // Check 0th bit
+    int N = 5; 
+    int n = 0; 
     if (isNthBitSet(N, n)) {
         cout << n << "th bit is SET" << endl;
     } else {
@@ -16,3 +14,4 @@ int main() {
     }
     return 0;
 }
+

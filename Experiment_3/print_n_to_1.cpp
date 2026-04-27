@@ -1,5 +1,3 @@
-// Problem: Print all numbers from N to 1 using recursion.\n\n#include <iostream>
-
 using namespace std;
 
 void printNto1(int n) {
@@ -14,3 +12,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

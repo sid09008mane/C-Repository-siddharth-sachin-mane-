@@ -1,5 +1,3 @@
-// Problem: Find exponential number (M to power N).\n\n#include <iostream>
-
 using namespace std;
 
 long long power(long long M, int N) {
@@ -18,3 +16,4 @@ int main() {
     cout << M << "^" << N << " = " << power(M, N) << endl;
     return 0;
 }
+

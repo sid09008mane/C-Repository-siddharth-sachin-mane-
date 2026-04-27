@@ -1,4 +1,3 @@
-// Problem: Linked list with stack.\n\n#include <iostream>
 using namespace std;
 
 class StackNode {
@@ -37,3 +36,4 @@ int main() {
 ";
     return 0;
 }
+

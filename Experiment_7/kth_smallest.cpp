@@ -1,4 +1,3 @@
-// Problem: Kth Smallest Element.\n\n#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -6,7 +5,7 @@ using namespace std;
 
 int kthSmallest(vector<int>& arr, int k) {
     sort(arr.begin(), arr.end());
-    return arr[k - 1]; // 1-based indexing for Kth
+    return arr[k - 1]; 
 }
 
 int main() {
@@ -15,3 +14,4 @@ int main() {
     cout << k << "th smallest: " << kthSmallest(arr, k) << endl;
     return 0;
 }
+

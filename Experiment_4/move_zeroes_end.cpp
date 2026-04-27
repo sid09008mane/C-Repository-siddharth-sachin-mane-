@@ -1,4 +1,3 @@
-// Problem: Move all zeroes to end of array.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -20,3 +19,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

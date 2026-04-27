@@ -1,9 +1,7 @@
-// Problem: Find number of Digits in Factorial.\n\n#include <iostream>
 #include <cmath>
 
 using namespace std;
 
-// Using Kamenetsky's formula for large numbers
 int findDigits(int n) {
     if (n < 0) return 0;
     if (n <= 1) return 1;
@@ -16,3 +14,4 @@ int main() {
     cout << "Digits in " << P << "! = " << findDigits(P) << endl;
     return 0;
 }
+

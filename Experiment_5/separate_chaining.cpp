@@ -1,4 +1,3 @@
-// Problem: Fill hash table using separate chaining strategy.\n\n#include <iostream>
 #include <vector>
 #include <list>
 
@@ -34,3 +33,4 @@ int main() {
     h.displayHash();
     return 0;
 }
+

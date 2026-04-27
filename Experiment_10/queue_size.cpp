@@ -1,4 +1,3 @@
-// Problem: Find size of queue without size function.\n\n#include <iostream>
 #include <queue>
 
 using namespace std;
@@ -18,3 +17,4 @@ int main() {
     cout << "Queue size: " << getQueueSize(q) << endl;
     return 0;
 }
+

@@ -1,4 +1,3 @@
-// Problem: Stack using an array.\n\n#include <iostream>
 using namespace std;
 
 #define MAX 1000
@@ -28,3 +27,4 @@ int main() {
 ";
     return 0;
 }
+

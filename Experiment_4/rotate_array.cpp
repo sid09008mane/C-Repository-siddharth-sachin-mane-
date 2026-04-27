@@ -1,4 +1,3 @@
-// Problem: Rotate array to left by one place.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -19,3 +18,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

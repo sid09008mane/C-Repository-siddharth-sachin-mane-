@@ -1,4 +1,3 @@
-// Problem: Print Matrix Transpose.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -18,3 +17,4 @@ int main() {
     printTranspose(mat);
     return 0;
 }
+

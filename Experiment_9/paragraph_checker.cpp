@@ -1,4 +1,3 @@
-// Problem: Paragraph checker (brackets logic).\n\n#include <iostream>
 #include <stack>
 #include <string>
 
@@ -29,3 +28,4 @@ int main() {
 ";
     return 0;
 }
+

@@ -1,4 +1,3 @@
-// Problem: Find leaders in an array.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -22,3 +21,4 @@ int main() {
     printLeaders(arr);
     return 0;
 }
+

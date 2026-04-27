@@ -1,9 +1,7 @@
-// Problem: Insert members of array of distinct integers.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
 
-// This implies standard insertion into hash table with linear probing as per standard syllabus
 void insertDistinct(vector<int>& hash_table, int hashSize, vector<int>& arr) {
     for (int x : arr) {
         int idx = x % hashSize;
@@ -21,3 +19,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

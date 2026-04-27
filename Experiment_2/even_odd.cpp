@@ -1,5 +1,3 @@
-// Problem: Check whether number is even or odd using bitwise & operator.\n\n#include <iostream>
-
 using namespace std;
 
 int main() {
@@ -11,3 +9,4 @@ int main() {
     }
     return 0;
 }
+

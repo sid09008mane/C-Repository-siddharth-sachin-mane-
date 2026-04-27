@@ -1,4 +1,3 @@
-// Problem: Postfix expression evaluation.\n\n#include <iostream>
 #include <stack>
 #include <string>
 
@@ -28,3 +27,4 @@ int main() {
     cout << "Postfix evaluation: " << evaluatePostfix(exp) << endl;
     return 0;
 }
+

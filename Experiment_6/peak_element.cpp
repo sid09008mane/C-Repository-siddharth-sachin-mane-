@@ -1,4 +1,3 @@
-// Problem: Peak element index in given array O(logn).\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -20,3 +19,4 @@ int main() {
     cout << "Peak element index: " << findPeakElement(arr) << endl;
     return 0;
 }
+

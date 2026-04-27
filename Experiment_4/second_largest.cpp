@@ -1,4 +1,3 @@
-// Problem: Find second largest element in array.\n\n#include <iostream>
 #include <vector>
 #include <limits.h>
 
@@ -22,3 +21,4 @@ int main() {
     cout << "Second Largest: " << secondLargest(arr) << endl;
     return 0;
 }
+

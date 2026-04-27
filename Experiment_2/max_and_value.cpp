@@ -1,9 +1,7 @@
-// Problem: Find Maximum AND value produced by pairwise element from array.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
 
-// This can be optimized, but using O(N^2) for simplicity according to practical requirements
 int maxAND(vector<int>& arr) {
     int max_val = 0;
     for (int i = 0; i < arr.size(); i++) {
@@ -19,3 +17,4 @@ int main() {
     cout << "Max AND value: " << maxAND(arr) << endl;
     return 0;
 }
+

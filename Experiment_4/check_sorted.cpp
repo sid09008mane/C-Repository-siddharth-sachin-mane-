@@ -1,4 +1,3 @@
-// Problem: Check if array is sorted.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -15,3 +14,4 @@ int main() {
     cout << "Is sorted: " << (isSorted(arr) ? "Yes" : "No") << endl;
     return 0;
 }
+

@@ -1,4 +1,3 @@
-// Problem: Linear probing in hashing.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -24,3 +23,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

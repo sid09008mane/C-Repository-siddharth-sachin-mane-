@@ -1,4 +1,3 @@
-// Problem: Find out the time complexity of given code.\n\n/*
 Question: Find time complexity of below code
 int try_fun(int n) {
     int cnt = 0;
@@ -19,3 +18,4 @@ int main() {
     std::cout << "Time complexity is O(n^2). Check source code for details." << std::endl;
     return 0;
 }
+

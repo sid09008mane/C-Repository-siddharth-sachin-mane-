@@ -1,4 +1,3 @@
-// Problem: Bubble sort implementation.\n\n#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -21,3 +20,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

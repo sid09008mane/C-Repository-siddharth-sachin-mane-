@@ -1,4 +1,3 @@
-// Problem: Print all permutations of a string.\n\n#include <iostream>
 #include <string>
 
 using namespace std;
@@ -20,3 +19,4 @@ int main() {
     permute(str, 0, str.length() - 1);
     return 0;
 }
+

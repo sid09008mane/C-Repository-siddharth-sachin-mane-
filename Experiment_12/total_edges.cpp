@@ -1,5 +1,3 @@
-// Problem: Count total number of edges in undirected graph.
-
 #include <iostream>
 #include <vector>
 
@@ -10,7 +8,7 @@ int countEdges(vector<vector<int>>& adjList) {
     for (int i = 0; i < adjList.size(); i++) {
         sum += adjList[i].size();
     }
-    return sum / 2; // Undirected graph
+    return sum / 2; 
 }
 
 int main() {
@@ -23,3 +21,4 @@ int main() {
     cout << "Total edges: " << countEdges(adjList) << endl;
     return 0;
 }
+

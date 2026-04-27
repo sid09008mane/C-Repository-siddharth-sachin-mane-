@@ -1,4 +1,3 @@
-// Problem: Check if string S1 is palindrome or not.\n\n#include <iostream>
 #include <string>
 
 using namespace std;
@@ -17,3 +16,4 @@ int main() {
     cout << S1 << " is " << (isPalindrome(S1) ? "Palindrome" : "Not Palindrome") << endl;
     return 0;
 }
+

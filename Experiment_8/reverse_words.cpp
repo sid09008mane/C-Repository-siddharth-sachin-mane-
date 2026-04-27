@@ -1,4 +1,3 @@
-// Problem: Reverse order of words in given string.\n\n#include <iostream>
 #include <string>
 #include <vector>
 #include <sstream>
@@ -22,3 +21,4 @@ int main() {
     cout << "Reversed: " << reverseWords("hello world this is C++") << endl;
     return 0;
 }
+

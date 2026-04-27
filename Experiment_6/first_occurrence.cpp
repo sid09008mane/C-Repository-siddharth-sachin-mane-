@@ -1,4 +1,3 @@
-// Problem: Finding index of first Occurrence of an element.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -9,7 +8,7 @@ int firstOccurrence(vector<int>& arr, int target) {
         int mid = l + (r - l) / 2;
         if (arr[mid] == target) {
             res = mid;
-            r = mid - 1; // Keep searching left
+            r = mid - 1; 
         } else if (arr[mid] > target) {
             r = mid - 1;
         } else {
@@ -24,3 +23,4 @@ int main() {
     cout << "First occurrence of 2: " << firstOccurrence(arr, 2) << endl;
     return 0;
 }
+

@@ -1,5 +1,3 @@
-// Problem: Graph Adjacency List
-
 #include <iostream>
 #include <vector>
 
@@ -26,3 +24,4 @@ int main() {
     }
     return 0;
 }
+

@@ -1,5 +1,3 @@
-// Problem: Find power m of number N using recursion.\n\n#include <iostream>
-
 using namespace std;
 
 long long power(int n, int m) {
@@ -12,3 +10,4 @@ int main() {
     cout << N << "^" << m << " = " << power(N, m) << endl;
     return 0;
 }
+

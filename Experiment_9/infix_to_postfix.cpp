@@ -1,4 +1,3 @@
-// Problem: Infix to postfix expression.\n\n#include <iostream>
 #include <stack>
 #include <string>
 
@@ -43,3 +42,4 @@ int main() {
     cout << "Postfix: " << infixToPostfix(exp) << endl;
     return 0;
 }
+

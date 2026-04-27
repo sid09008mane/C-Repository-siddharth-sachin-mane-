@@ -1,4 +1,3 @@
-// Problem: Implement sort() function using C++ STL.\n\n#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -11,3 +10,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

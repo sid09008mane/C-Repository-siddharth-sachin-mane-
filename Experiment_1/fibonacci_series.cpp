@@ -1,5 +1,3 @@
-// Problem: Find the Fibonacci Series.\n\n#include <iostream>
-
 using namespace std;
 
 void printFibonacci(int n) {
@@ -16,7 +14,8 @@ void printFibonacci(int n) {
 }
 
 int main() {
-    int n = 10; // Number of terms
+    int n = 10; 
     printFibonacci(n);
     return 0;
 }
+

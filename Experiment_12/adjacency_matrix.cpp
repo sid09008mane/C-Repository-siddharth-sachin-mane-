@@ -1,15 +1,13 @@
-// Problem: Graph Adjacency Matrix
-
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
 int main() {
-    int n = 4; // number of nodes
+    int n = 4; 
     vector<vector<int>> adjMat(n, vector<int>(n, 0));
     
-    // Edges based on example 0-1, 0-2, 0-3, etc. Just demo edges
+    
     auto addEdge = [&](int u, int v) {
         adjMat[u][v] = 1;
         adjMat[v][u] = 1;
@@ -26,3 +24,4 @@ int main() {
     }
     return 0;
 }
+

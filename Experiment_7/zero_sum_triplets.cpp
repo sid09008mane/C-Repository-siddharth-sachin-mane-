@@ -1,4 +1,3 @@
-// Problem: Find triplets with zero sum.\n\n#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -23,3 +22,4 @@ int main() {
     cout << "Triplet exists? " << (findTriplets(arr) ? "Yes" : "No") << endl;
     return 0;
 }
+

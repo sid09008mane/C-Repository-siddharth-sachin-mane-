@@ -1,4 +1,3 @@
-// Problem: Count subsets of array whose sum matches given sum.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -19,3 +18,4 @@ int main() {
     cout << "Count of subsets: " << countSubsets(arr, arr.size(), sum) << endl;
     return 0;
 }
+

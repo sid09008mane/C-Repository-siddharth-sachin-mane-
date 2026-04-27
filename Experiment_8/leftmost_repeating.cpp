@@ -1,4 +1,3 @@
-// Problem: Leftmost repeating character in string.\n\n#include <iostream>
 #include <string>
 #include <unordered_map>
 
@@ -10,10 +9,11 @@ char leftmostRepeating(string s) {
     for (char c : s) {
         if (count[c] > 1) return c;
     }
-    return '-'; // Denoting -1
+    return '-'; 
 }
 
 int main() {
     cout << "Leftmost repeating: " << leftmostRepeating("geeksforgeeks") << endl;
     return 0;
 }
+

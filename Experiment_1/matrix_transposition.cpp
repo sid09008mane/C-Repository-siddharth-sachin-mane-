@@ -1,4 +1,3 @@
-// Problem: Find a matrix's transposition.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -24,3 +23,4 @@ int main() {
     }
     return 0;
 }
+

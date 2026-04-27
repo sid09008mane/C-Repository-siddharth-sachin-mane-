@@ -1,4 +1,3 @@
-// Problem: Check if string str1 is anagram of str2.\n\n#include <iostream>
 #include <string>
 #include <algorithm>
 
@@ -15,3 +14,4 @@ int main() {
     cout << "Are anagrams: " << isAnagram("listen", "silent") << endl;
     return 0;
 }
+

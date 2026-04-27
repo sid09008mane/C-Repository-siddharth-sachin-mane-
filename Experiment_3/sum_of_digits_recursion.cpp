@@ -1,5 +1,3 @@
-// Problem: Find sum of individual digits using recursion.\n\n#include <iostream>
-
 using namespace std;
 
 int sumOfDigits(int n) {
@@ -12,3 +10,4 @@ int main() {
     cout << "Sum of digits of " << N << " is " << sumOfDigits(N) << endl;
     return 0;
 }
+

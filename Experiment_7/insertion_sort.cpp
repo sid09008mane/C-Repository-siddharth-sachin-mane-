@@ -1,4 +1,3 @@
-// Problem: Sort elements using Insertion Sort.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -22,3 +21,4 @@ int main() {
     cout << endl;
     return 0;
 }
+

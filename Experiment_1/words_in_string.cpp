@@ -1,4 +1,3 @@
-// Problem: Count the number of words in a string.\n\n#include <iostream>
 #include <string>
 #include <sstream>
 
@@ -17,3 +16,4 @@ int main() {
     cout << "Word count: " << countWords(s) << endl;
     return 0;
 }
+

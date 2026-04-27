@@ -1,4 +1,3 @@
-// Problem: Implement Queue using Array.\n\n#include <iostream>
 using namespace std;
 
 struct Queue {
@@ -37,3 +36,4 @@ int main() {
     q.queueDisplay();
     return 0;
 }
+

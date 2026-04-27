@@ -1,4 +1,3 @@
-// Problem: Working on Two Pointer Algorithm.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -19,3 +18,4 @@ int main() {
     cout << "Pair with sum " << sum << " " << (hasSumPair(arr, sum) ? "exists" : "doesn't exist") << endl;
     return 0;
 }
+

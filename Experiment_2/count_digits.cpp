@@ -1,4 +1,3 @@
-// Problem: Find the count of digits present in this number.\n\n#include <iostream>
 #include <string>
 
 using namespace std;
@@ -19,3 +18,4 @@ int main() {
     cout << "Digits in " << P << ": " << countDigits(P) << endl;
     return 0;
 }
+

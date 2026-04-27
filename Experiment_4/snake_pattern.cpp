@@ -1,4 +1,3 @@
-// Problem: Arranging matrix elements in snake pattern.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -20,3 +19,4 @@ int main() {
     printSnake(mat);
     return 0;
 }
+

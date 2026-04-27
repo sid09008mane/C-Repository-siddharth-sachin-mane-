@@ -1,4 +1,3 @@
-// Problem: Recursive Binary Search.\n\n#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -20,3 +19,4 @@ int main() {
     cout << "Element index: " << result << endl;
     return 0;
 }
+
